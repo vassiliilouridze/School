@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2e2648232c30a286a5ddc832193ba4a8023ba3f3">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\instant-run_d0a849bbbb3dcf89fcc1ed58891de092a2408071.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_742f7dd808d66df5db9b7fc4916273edce9a6ef0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_f2e44cdbe47779fb672c830375a2624846e897bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_f5cb02b65b7aeec877e937e98428b5354e906dac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vassili\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_e9f5aae1a9cb8717b65f6b81b413fd40c96e0134.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_1114507430436a2b7386794f706ccef98e723b24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.2_778aa05d7cc0ee08a2cc8eb4c77d415bae77d3be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf03f6cbd5e206c310e75ebbda7d757053f4582a">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_537b1ea9f42660118478793f9221433bc1b841d0.jar" />
+    </item>
+
+</items>

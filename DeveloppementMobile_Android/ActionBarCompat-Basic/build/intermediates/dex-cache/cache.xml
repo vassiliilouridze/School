@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_8fb12d50c29380331b91f226a95b0d0191d93596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_e970197860c0b3a3004dbb0708539fb8caa0a549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.1_79decb9f844ca47c2d2ee784a5ba40c22f0d86c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_64870ad9768e6405e26b6a5a296e9cb16b2505e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_0950d79616d9f33dcbd457dc70e38edae1bb185d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_8ee3d3c5f7fab01ab03b79cf13dd7673431d3059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_1cd0b169d2b1e799dacd4f48d5c8a9f1f7c32bec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e6d5032dabd6e4ea9dcbcd6f2610c44620ecc4e4">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_26d424e4b701f616e882f10fa6c703c7f89a014b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_f6f73d2a7bd465ad6df52b64aea230fa2dc6118f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="74d6253deffebb7140be140840cb826e59c5e4a7">
+        <dex dex="C:\Users\Vassili\AndroidStudioProjects\ActionBarCompat-Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4a779e5a24edc3f22048f911a03ef015ddb568c2\classes.dex" />
+    </item>
+
+</items>
