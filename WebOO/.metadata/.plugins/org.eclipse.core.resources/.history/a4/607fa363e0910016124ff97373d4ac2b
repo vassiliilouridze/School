@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@ include file="include/importTags.jsp" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	Welcome to userIncription page !
+	
+	<form:form id="form" method="POST" action="/childgift/inscription/inscription" modelAttribute="currentUser">			    
+		<form:label path="name">
+			<spring:message code="name"/>
+		</form:label>	
+		<form:errors path="name">
+		</form:errors>
+		<form:input path="name"/>
+		<form:label path="age">
+		<spring:message code="age"/>
+		</form:label>
+		<form:input path="age"/>	
+		<form:radiobutton path="male" value="true"/>Boy
+		<form:radiobutton path="male" value="false"/>Girl		    
+		<input type="submit" value="Submit"/>
+		<form:select path="hobby">
+			<form:options items="${hobbies}" itemValue="id" itemLabel="name"/>
+		</form:select>
+	</form:form> 
+</body>
+</html>
